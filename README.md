@@ -1,4 +1,5 @@
 # nanochat
+<!-- tokenizer/ contains a locally trained 32K ClimbMix tokenizer for new models (nanochat 92d63d4; dataset 915333b). -->
 
 ![nanochat logo](dev/nanochat.png)
 ![scaling laws](dev/scaling_laws_jan26.png)
